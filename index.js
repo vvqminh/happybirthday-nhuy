@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "Háp bi bớt đay🎉🎉" //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = "Háp bi bớt đay chị Na🎉🎉" //Lời mở đầu cho bức thư
 const mainContentLetter = "Chúc chị sinh nhật vui vẻ, tuổi mới ngày càng học giỏi và lun vui tươi nhaa (dòm chị còn trẻ chán nên đừng lo🎈)" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
